@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hola, soy Alberto Cabadiana 👋
 
-<!--
-**albertocabadianap-alt/albertocabadianap-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona, orientado al desarrollo de aplicaciones y software.
 
-Here are some ideas to get you started:
+Actualmente busco una oportunidad de prácticas donde pueda continuar desarrollando mis conocimientos técnicos, participar en proyectos reales y aportar mi experiencia profesional en organización, trabajo en equipo y resolución de incidencias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías utilizadas en proyectos académicos
+
+- Java
+- Android Studio
+- XML
+- SQLite y SQL
+- Odoo
+- Git y GitHub
+
+## 📱 Proyecto destacado
+
+### FitControl AMCP
+
+Aplicación Android desarrollada como proyecto académico para la gestión de rutinas y el seguimiento del progreso deportivo.
+
+El proyecto ha sido desarrollado utilizando **Java, Android Studio y XML**, aplicando conceptos de programación orientada a objetos, navegación entre pantallas, validación de datos y diseño de interfaces.
+
+➡️ [Ver repositorio de FitControl AMCP](https://github.com/albertocabadianap-alt/FitControlAMCP)
+
+## 🎯 Objetivo profesional
+
+Busco realizar prácticas en el área de desarrollo de software, especialmente en proyectos relacionados con:
+
+- Desarrollo de aplicaciones Java
+- Desarrollo Android
+- Bases de datos
+- Aplicaciones empresariales
+
+Tengo disponibilidad completa para la realización de prácticas en modalidad presencial, híbrida o remota.
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/alberto-cabadiana-b298212a7)
+- Ubicación: Barcelona, España
