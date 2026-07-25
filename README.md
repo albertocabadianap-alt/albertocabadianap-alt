@@ -1,8 +1,8 @@
 # Hola, soy Alberto Cabadiana 👋
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona, orientado al desarrollo de aplicaciones y software.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en Barcelona, con interés en el desarrollo de aplicaciones Java, Android y bases de datos.
 
-Actualmente busco una oportunidad de prácticas donde pueda continuar desarrollando mis conocimientos técnicos, participar en proyectos reales y aportar mi experiencia profesional en organización, trabajo en equipo y resolución de incidencias.
+Durante mi formación he trabajado en proyectos académicos relacionados con desarrollo móvil, interfaces, validación de datos, programación orientada a objetos y aplicaciones empresariales.
 
 ## 🛠️ Tecnologías utilizadas en proyectos académicos
 
